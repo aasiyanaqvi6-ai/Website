@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Play, Pause, Volume2, VolumeX, Maximize, Home, Instagram, Mail } from 'lucide-react';
 import FloatingIcons from "./components/FloatingIcons";
+import InteractiveCharacters from "./components/InteractiveCharacters";
 import LoadingScreen from "./components/LoadingScreen";
 import ScrollAnimation from "./components/ScrollAnimations";
 
